@@ -1,20 +1,5 @@
 # StarWars Favorites' App
 
-### Documentaion of Solution
-
-The application supports following routes :
-
-`/`
-
-`/planets/`
-
-`/favourite/planets`
-
-`/favourite/movies`
-
-`/saved/planets`
-
-`/search`
 
 
 ## Installing the Deps & Running the application (using Python 3.5.2)
