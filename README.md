@@ -2,7 +2,7 @@
 
 
 
-## Installing the Deps & Running the application (using Python 3.5.2)
+## Installing the Deps & Running the application
 
 ```
 virtualenv -p python3 venv
